@@ -1,7 +1,7 @@
 # PORTFOLIO PERSONAL PROFILE :
-### • Persuaded Professional Training of “JAVA Full stack Development” & “Azure AZ-900 & AZ-104”. 
-### • Having Knowledge of on JDBC, SPRINGBOOT, HIBERNET, JAVASCRIPT, AJAX, RECATJS Also Knowledge on Cloud Computing Azure Services, Azure Monitor, Azure Storage. 
-### • Focused and hardworking professional equipped with thorough knowledge and technical understanding coupled with an analytic bent of mind and confident to take challenging assignments. 
+#### • Persuaded Professional Training of “JAVA Full stack Development” & “Azure AZ-900 & AZ-104”. 
+#### • Having Knowledge of on JDBC, SPRINGBOOT, HIBERNET, JAVASCRIPT, AJAX, RECATJS Also Knowledge on Cloud Computing Azure Services, Azure Monitor, Azure Storage. 
+#### • Focused and hardworking professional equipped with thorough knowledge and technical understanding coupled with an analytic bent of mind and confident to take challenging assignments. 
 
 ## LIVE SITE :
 https://ankitganorkar.github.io/Portfolio/
